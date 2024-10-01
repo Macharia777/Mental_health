@@ -22,7 +22,7 @@ Creating a mental health application that addresses existing gaps requires a tho
 - **Guided Meditation and Breathing Exercises**: Offer a library of short guided mindfulness, meditation, and breathing exercises to help users in moments of stress or anxiety.
 - **Mood Tracking and Journaling**: Provide tools for users to track their mood and emotional patterns over time, with prompts for self-reflection.
 - **Sleep and Relaxation Tools**: Include soundscapes, white noise, and sleep meditations to help users with insomnia or restlessness.
-- **Crisis Support Button**: For users in immediate distress, the app provides a direct link to national and international crisis support helplines.
+- **Crisis Support Button**: For users in immediate distress e.g suicidal, the app provides a direct link to national and international crisis support helplines.
 
 ### Hybrid Therapy Model: Human and AI Support
 
@@ -38,8 +38,8 @@ Creating a mental health application that addresses existing gaps requires a tho
 
 ### Cultural Sensitivity
 
-- **Culturally Relevant Resources**: Offer content and resources that reflect diverse cultural backgrounds, including support for BIPOC (Black, Indigenous, People of Color) communities and LGBTQ+ individuals.
-- **Localized Mental Health Directories**: Provide country- or region-specific resources and directories for users to find local mental health professionals and services.
+- **Culturally Relevant Resources**: Offer content and resources that reflect diverse cultural backgrounds.
+- **Localized Mental Health Directories**: Provide county- or region-specific resources and directories for users to find local mental health professionals and services.
 
 ### Holistic Wellness
 
